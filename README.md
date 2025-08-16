@@ -70,8 +70,8 @@ A modern, fast, and secure PHP photo gallery with a stunning dark theme interfac
 
 1. **Clone or download the repository**
 ```bash
-git clone https://github.com/yourusername/photo-gallery.git
-cd photo-gallery
+git clone https://github.com/a9ii/gallery.git
+cd gallery
 ```
 
 2. **Create required directories**
@@ -244,8 +244,8 @@ define('SITE_DESC', 'معرض صور احترافي');   // Gallery description
 
 1. **استنساخ أو تحميل المستودع**
 ```bash
-git clone https://github.com/yourusername/photo-gallery.git
-cd photo-gallery
+git clone https://github.com/a9ii/gallery.git
+cd gallery
 ```
 
 2. **إنشاء المجلدات المطلوبة**
@@ -398,19 +398,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Font: Tajawal (Google Fonts)
 - Inspiration: Modern gallery designs
 
-## 📞 Support | الدعم
-
-For issues and questions:
-للمشاكل والأسئلة:
-
-- 🐛 [Report Bug](https://github.com/yourusername/photo-gallery/issues)
-- 💡 [Request Feature](https://github.com/yourusername/photo-gallery/issues)
-- 📧 Email: your.email@example.com
-
----
 
 <div align="center">
-Made with ❤️ by [Your Name]
-
-صُنع بـ ❤️ بواسطة [اسمك]
+Made with ❤️
 </div>
