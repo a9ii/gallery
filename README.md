@@ -370,7 +370,7 @@ define('SITE_DESC', 'معرض صور احترافي');   // وصف المعرض
 
 ### Album View | عرض الألبوم
 <div align="center">
-<img src="https://via.placeholder.com/800x450/0a0a0a/4a9eff?text=Album+Grid+View" alt="Album View" width="100%">
+<img src="img/Album.png" alt="Album View" width="100%">
 </div>
 
 ### Lightbox | العارض
