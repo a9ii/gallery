@@ -375,7 +375,7 @@ define('SITE_DESC', 'معرض صور احترافي');   // وصف المعرض
 
 ### Lightbox | العارض
 <div align="center">
-<img src="https://via.placeholder.com/800x450/0a0a0a/4a9eff?text=Lightbox+Preview" alt="Lightbox" width="100%">
+<img src="img/Lightbox.png" alt="Lightbox" width="100%">
 </div>
 
 ---
