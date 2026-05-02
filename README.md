@@ -365,7 +365,7 @@ define('SITE_DESC', 'معرض صور احترافي');   // وصف المعرض
 
 ### Home Page | الصفحة الرئيسية
 <div align="center">
-<img src="https://via.placeholder.com/800x450/0a0a0a/4a9eff?text=Gallery+Home+Page" alt="Gallery Home" width="100%">
+<img src="img/Home.png" alt="Gallery Home" width="100%">
 </div>
 
 ### Album View | عرض الألبوم
